@@ -1,11 +1,18 @@
-# Kumpulan dataset dari Tugas Akhir mahasiswa COMNETS UNSRI
+# COMNETS Lab dataset for research by Departmetn of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya
+
 ![comnets](logo-dataset.png)
-Dataset - dataset ini merupakan kumpulan dari hasil penelitian/tugas akhir mahasiswa Sistem Komputer,Fakultas Ilmu Komputer, Universitas Sriwijaya. Bagi mahasiswa/peneliti yang ingin mendapatkan dataset tersebut, silahkan kirimkan email ke `comnets@unsri.ac.id` untuk mendapatkan file dataset yang anda inginkan.
+COMNETS lab dataset is a collection of datasets by undergraduate students (Bachelor Computer) in Department of computer engineering. Faculty of Computer Science. Universitas Sriwijaya.
+
+## Contact
+If you have any questions and more information, please free to contact our email comnets@unsri.ac.id
 
 ## Internet of Things (IoT) dataset
-1. [Dataset TCP FIN flood dan zbassocflood](https://drive.google.com/drive/folders/1R4-WjjJfop_9yvi1vIo1GR5yeYOc3-ea?usp=sharing)
 
-### Publications: 
+### TCP FIN flood dan zbassocflood dataset
+
+[Download](https://drive.google.com/drive/folders/1R4-WjjJfop_9yvi1vIo1GR5yeYOc3-ea?usp=sharing)
+
+#### Publications: 
 - The Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data.
 
 Abstract— This research focuses on the requirements for and the creation of an intrusion detection system (IDS) dataset for an Internet of Things (IoT) network domain. 
@@ -17,7 +24,7 @@ Testing focused on three denial of service (DoS) and distributed denial of servi
 Abstract-Focus of this research is TCP FIN flood attack pattern recognition in Internet of Things (IoT) network using rule based signature analysis method. Dataset is taken based on three scenario normal, attack and normal-attack. The process of identification and recognition of TCP FIN flood attack pattern is done based on observation and analysis of packet attribute from raw data (pcap) using a feature extraction and feature selection method. 
 Further testing was conducted using snort as an IDS. The results of the confusion matrix detection rate evaluation against the snort as IDS show the average percentage of the precision level.
 
-### Citing
+#### Citing
 if use this data in a publication please cite the following [paper](https://online-journals.org/index.php/i-joe/article/view/9848)
 
 ```
@@ -32,8 +39,4 @@ journal = {International Journal of Online and Biomedical Engineering (iJOE)},
 doi = {10.3991/ijoe.v15i07.9848}
 }
 ```
-2. [Dataset IoT MQTT Protocol](https://drive.google.com/drive/folders/10QP4RnbIpNMC9p0NLPDFFwlPvEBhvER6?usp=sharing)
-3. [Dataset Ping flood Attack](https://drive.google.com/drive/folders/1XGwlOCxnd3ozAhVAgUInfLR5l7W_uM9y?usp=sharing)
-4. [Dataset UDP flood Attack](https://drive.google.com/drive/folders/1a5tLZ01pR71X9-lf0H3B2Y-OIvVtei5Z?usp=sharing)
-5. [Dataset Protocol IoT CoAP](https://drive.google.com/drive/folders/1JATdG-QrNFmb6DWPPW7FWs6g7Fc-GiQz?usp=sharing)
 
