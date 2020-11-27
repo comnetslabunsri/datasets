@@ -51,7 +51,7 @@ doi = {10.3991/ijoe.v15i07.9848}
 [Download](https://drive.google.com/drive/folders/1XGwlOCxnd3ozAhVAgUInfLR5l7W_uM9y?usp=sharing)
 
 #### Publications:
-- Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network _`status: on review`_
+- Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network _`status: on repository`_
 
 Abstract — This work investigates ping flood attack pattern recognition on Internet of Things (IoT) network. Experiments are conducted on WiFi communication with three different scenarios: normal traffic, attack traffic, and normal-attack combination traffic to create normal dataset, attack dataset, and normal attack (combined) dataset. The datasets are grouped into two clusters i.e.: (i) normal cluster and (ii) attack cluster. Clustering results using implemented K-Means algorithm show the average number of packets on the cluster of attack in total is 95,931 packets, and the average packets on normal cluster in total is 4,068 packets. 
 Accuracy level of the clustering results then is calculated using confusion matrix equation. Based on the confusion matrix calculation, accuracy of clustering using implemented K-Means algorithm was 99.94%. The true negative rate reaches up to 98.62%, true positive rate is 100%, the false negative rate is 0%, and the false positive rate reaches 1.38%.
