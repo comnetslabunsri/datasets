@@ -3,14 +3,14 @@
 ![comnets](logo-dataset.png)
 COMNETS lab dataset is a collection of datasets by undergraduate students (Bachelor Computer) in Department of computer engineering. Faculty of Computer Science. Universitas Sriwijaya.
 
-## Contents:
+## Contents
 - [Internet of Things dataset](#internet-of-things-dataset)
 
 ## Contact
 If you have any questions and more information, please feel free to contact our email comnets@unsri.ac.id
 
 ## Internet of Things dataset
-### Contents:
+### Contents
 - [TCP FIN flood dan zbassocflood dataset](#tcp-fin-flood-dan-zbassocflood-dataset)
 - [Ping flood Attack dataset](#ping-flood-attack-dataset)
 - [Protocol IoT CoAP dataset](#protocol-iot-coap-dataset)
