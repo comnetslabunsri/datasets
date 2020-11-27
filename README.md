@@ -68,5 +68,10 @@ A feature extraction process on generated CSV file was performed and then the fe
 ### Protocol IoT CoAP dataset
 [Download](https://drive.google.com/drive/folders/1JATdG-QrNFmb6DWPPW7FWs6g7Fc-GiQz?usp=sharing)
 
+#### Publications
+- Implementation of Constrained Application Protocol on IoT using Constrained RESTful Environments Constrained Device _`status : on repository`_
+
+This study discusses the implementation of the Constrained Application Protocol (CoAP) using Constrained RESTful Environments (CoRE) on RFC 7252 which is used as a research parameter. The implementation of this Limited Application Protocol uses Internet of Things (IoT) technology. The testing technique is carried out offline and the device used is based on the constrained device. Network performance testing parameters in this study are UDP throughput, UDP delay, UDP packet loss and UDP packet delivery ratio. Testing network performance with LED and Buzzer output produces the largest average UDP throughput, namely 4.5737 Kbps while the smallest average throughput is 1.2293 Kbps, the largest average UDP delay result is 2 seconds and the smallest average is 0.6 seconds, then the average UDP packet loss yield is 0% while the average successful packet delivery ratio is 100%. From the results of this test, the Constrained Application Protocol (CoAP) has smaller network performance results than the HyperText Transfer Protocol (HTTP) to be implemented in Internet of Things (IoT) technology.
+
 ### IoT MQTT Protocol dataset
 [Download](https://drive.google.com/drive/folders/10QP4RnbIpNMC9p0NLPDFFwlPvEBhvER6?usp=sharing)
