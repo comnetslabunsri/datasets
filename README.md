@@ -62,7 +62,8 @@ Accuracy level of the clustering results then is calculated using confusion matr
 #### Publications:
 - Investigating UDP Flood Attack Pattern on Internet of Things Network _`status: on review`_
 
-Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
+Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. 
+A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
 
 ### Protocol IoT CoAP dataset
 [Download](https://drive.google.com/drive/folders/1JATdG-QrNFmb6DWPPW7FWs6g7Fc-GiQz?usp=sharing)
