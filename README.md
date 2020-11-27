@@ -75,3 +75,8 @@ This study discusses the implementation of the Constrained Application Protocol 
 
 ### IoT MQTT Protocol dataset
 [Download](https://drive.google.com/drive/folders/10QP4RnbIpNMC9p0NLPDFFwlPvEBhvER6?usp=sharing)
+
+#### Publications
+- PERFORMANCE ANALYSIS OF MESSAGE QUEUE TELEMETRY TRANSPORT (MQTT) PROTOCOL ON INTERNET OF THING (IoT) _`status : on review`_
+
+Internet of Things (IoT) is a system where devices are connected and allows information exchange among them. It also allows devices/objects to interact directly with other objects or commonly refers to Machine-to-Machine (M2M) communication. Message Queue Telemetry Transport (MQTT) is machine-to-machine connectivity protocol, which is designed as messages delivery service that gives different level of Quality of Service (QoS) i.e.: level 0, 1 and 2 for variety of use cases, provides architecture of publish/subscribe and supports multicasting message. The importance feature of MQTT is low overhead for efficient communication between devices. This work implements MQTT using Mosquito Broker, which has a function to regulate the delivery of messages between Publisher and Subscriber using poll system call to handle multiple network socket in one thread. With a scenario of increasing number of nodes at each experiment, MQTT Protocol has an average overall delay of 0.0029 seconds, an average throughput of 218 Kbps, average of packet loss of 0.2% and average of packet delivery ratio of 99.7%. Of experiment results obtained, the MQTT Protocol has potential to be able to meet the needs of the use of a limited bandwidth network, which can be adjusted with the level of service provided by the MQTT and low packet loss rate.
