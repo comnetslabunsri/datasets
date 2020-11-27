@@ -4,12 +4,11 @@
 COMNETS lab dataset is a collection of datasets by undergraduate students (Bachelor Computer) in Department of computer engineering. Faculty of Computer Science. Universitas Sriwijaya.
 
 ## Contact
-If you have any question and more information, please feel free to contact our email comnets@unsri.ac.id
+If you have any questions and more information, please feel free to contact our email comnets@unsri.ac.id
 
 ## Internet of Things (IoT) dataset
 
 ### TCP FIN flood dan zbassocflood dataset
-
 [Download](https://drive.google.com/drive/folders/1R4-WjjJfop_9yvi1vIo1GR5yeYOc3-ea?usp=sharing)
 
 #### Publications: 
@@ -40,3 +39,25 @@ doi = {10.3991/ijoe.v15i07.9848}
 }
 ```
 
+### Ping flood Attack dataset
+[Download](https://drive.google.com/drive/folders/1XGwlOCxnd3ozAhVAgUInfLR5l7W_uM9y?usp=sharing)
+
+#### Publications:
+- Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network
+
+Abstract — This work investigates ping flood attack pattern recognition on Internet of Things (IoT) network. Experiments are conducted on WiFi communication with three different scenarios: normal traffic, attack traffic, and normal-attack combination traffic to create normal dataset, attack dataset, and normal attack (combined) dataset. The datasets are grouped into two clusters i.e.: (i) normal cluster and (ii) attack cluster. Clustering results using implemented K-Means algorithm show the average number of packets on the cluster of attack in total is 95,931 packets, and the average packets on normal cluster in total is 4,068 packets. 
+Accuracy level of the clustering results then is calculated using confusion matrix equation. Based on the confusion matrix calculation, accuracy of clustering using implemented K-Means algorithm was 99.94%. The true negative rate reaches up to 98.62%, true positive rate is 100%, the false negative rate is 0%, and the false positive rate reaches 1.38%.
+
+### UDP flood Attack dataset
+[Download](https://drive.google.com/drive/folders/1a5tLZ01pR71X9-lf0H3B2Y-OIvVtei5Z?usp=sharing)
+
+#### Publications:
+-Investigating UDP Flood Attack Pattern on Internet of Things Network `status: on review`
+
+Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
+
+### Protocol IoT CoAP dataset
+[Download](https://drive.google.com/drive/folders/1JATdG-QrNFmb6DWPPW7FWs6g7Fc-GiQz?usp=sharing)
+
+### IoT MQTT Protocol dataset
+[Download](https://drive.google.com/drive/folders/10QP4RnbIpNMC9p0NLPDFFwlPvEBhvER6?usp=sharing)
