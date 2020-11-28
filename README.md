@@ -5,8 +5,6 @@ COMNETS lab dataset is a collection of datasets from the Department of Computer 
 
 For further more information, kindly to contacted at comnets@unsri.ac.id
 
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/comnetslabunsri)
-
 ## Contents
 - [Internet of Things dataset](#internet-of-things-dataset)
 - [License](#lisence)
@@ -89,3 +87,5 @@ This work implements MQTT using Mosquito Broker, which has a function to regulat
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 You may redistribute, republish, and mirror all of the COMNETS Lab datasets in any form. However, any use or redistribution of the data must include a citation to our publications or the COMNETS Lab dataset.
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/comnetslabunsri)
