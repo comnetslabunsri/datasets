@@ -84,4 +84,6 @@ Internet of Things (IoT) is a system where devices are connected and allows info
 This work implements MQTT using Mosquito Broker, which has a function to regulate the delivery of messages between Publisher and Subscriber using poll system call to handle multiple network socket in one thread. With a scenario of increasing number of nodes at each experiment, MQTT Protocol has an average overall delay of 0.0029 seconds, an average throughput of 218 Kbps, average of packet loss of 0.2% and average of packet delivery ratio of 99.7%. Of experiment results obtained, the MQTT Protocol has potential to be able to meet the needs of the use of a limited bandwidth network, which can be adjusted with the level of service provided by the MQTT and low packet loss rate.
 
 ## Lisence
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 You may redistribute, republish, and mirror all of the COMNETS Lab datasets in any form. However, any use or redistribution of the data must include a citation to our publications or the COMNETS Lab dataset.
