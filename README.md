@@ -32,7 +32,9 @@ Abstract-Focus of this research is TCP FIN flood attack pattern recognition in I
 Further testing was conducted using snort as an IDS. The results of the confusion matrix detection rate evaluation against the snort as IDS show the average percentage of the precision level.
 
 #### Citing
-if use this data in a publication please cite the following [paper](https://online-journals.org/index.php/i-joe/article/view/9848)
+if use this data in a publication please cite the following 
+
+1. [TCP FIN Flood Attack Pattern Recognition on Internet of Things with Rule Based Signature Analysis](https://online-journals.org/index.php/i-joe/article/view/9848)
 
 ```
 @article{article,
@@ -44,6 +46,17 @@ title = {TCP FIN Flood Attack Pattern Recognition on Internet of Things with Rul
 volume = {15},
 journal = {International Journal of Online and Biomedical Engineering (iJOE)},
 doi = {10.3991/ijoe.v15i07.9848}
+}
+```
+2. [Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis(PCA)](https://ieeexplore.ieee.org/document/9251292)
+```
+@inproceedings{inproceedings,
+author = {Sharipuddin, and Purnama, Benni and Kurniabudi, Kurniabudi and Winanto, Eko and Stiawan, Deris and Hanapi, Darmawiiovo and Idris, Mohd and Budiarto, Rahmat},
+year = {2020},
+month = {10},
+pages = {114-118},
+title = {Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis (PCA)},
+doi = {10.23919/EECSI50503.2020.9251292}
 }
 ```
 
