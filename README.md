@@ -49,6 +49,7 @@ doi = {10.3991/ijoe.v15i07.9848}
 }
 ```
 2. [Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis(PCA)](https://ieeexplore.ieee.org/document/9251292)
+
 ```
 @inproceedings{inproceedings,
 author = {Sharipuddin, and Purnama, Benni and Kurniabudi, Kurniabudi and Winanto, Eko and Stiawan, Deris and Hanapi, Darmawiiovo and Idris, Mohd and Budiarto, Rahmat},
