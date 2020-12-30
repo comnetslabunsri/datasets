@@ -32,9 +32,7 @@ Abstract-Focus of this research is TCP FIN flood attack pattern recognition in I
 Further testing was conducted using snort as an IDS. The results of the confusion matrix detection rate evaluation against the snort as IDS show the average percentage of the precision level.
 
 #### Citing
-if use this data in a publication please cite the following 
-
-1. [TCP FIN Flood Attack Pattern Recognition on Internet of Things with Rule Based Signature Analysis](https://online-journals.org/index.php/i-joe/article/view/9848)
+if use this data in a publication please cite the following this paper [TCP FIN Flood Attack Pattern Recognition on Internet of Things with Rule Based Signature Analysis](https://online-journals.org/index.php/i-joe/article/view/9848)
 
 ```
 @article{article,
@@ -48,7 +46,13 @@ journal = {International Journal of Online and Biomedical Engineering (iJOE)},
 doi = {10.3991/ijoe.v15i07.9848}
 }
 ```
-2. [Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis(PCA)](https://ieeexplore.ieee.org/document/9251292)
+
+**Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis (PCA)**
+
+Feature extraction solves the problem of finding the most efficient and comprehensive set of features. A Principle Component Analysis (PCA) feature extraction algorithm is applied to optimize the effectiveness of feature extraction to build an effective intrusion detection method. This paper uses the Principal Components Analysis (PCA) for features extraction on intrusion detection system with the aim to improve the accuracy and precision of the detection. The impact of features extraction to attack detection was examined. Experiments on a network traffic dataset created from an Internet of Thing (IoT) testbed network topology were conducted and the results show that the accuracy of the detection reaches 100 percent.
+
+#### Citing
+if use this data in a publication please cite the following this paper [Features Extraction on IoT Intrusion Detection System Using Principal Components Analysis (PCA)](https://ieeexplore.ieee.org/document/9251292)
 
 ```
 @inproceedings{inproceedings,
