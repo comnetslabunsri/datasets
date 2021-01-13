@@ -13,7 +13,7 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 ### Contents
 - [TCP FIN flood and zbassocflood dataset](#tcp-fin-flood-and-zbassocflood-dataset)
 - [Ping flood Attack dataset](#ping-flood-attack-dataset)
-- [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](#constrained-application-protocol-(coap)-internet-of-things-protocol-dataset)
+- [Constrained Application Protocol Internet of Things Protocol Dataset](#constrained-application-protocol-internet-of-things-protocol-dataset)
 - [IoT MQTT Protocol dataset](#iot-mqtt-protocol-dataset)
 
 ### TCP FIN flood and zbassocflood dataset
@@ -84,7 +84,7 @@ Accuracy level of the clustering results then is calculated using confusion matr
 Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. 
 A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
 
-### Constrained Application Protocol (CoAP) Internet of Things Protocol dataset
+### Constrained Application Protocol Internet of Things Protocol dataset
 
 Our dataset is available on Zenodo, please visit [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc) to download.
 
