@@ -18,7 +18,7 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 
 ### TCP FIN flood and zbassocflood dataset
 
-Our dataset is available on Zenodo, please visit TCP FIN [Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc) to download.
+Our dataset is available on Zenodo, please visit [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc) to download.
 
 #### Publications: 
 **The Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data.**
