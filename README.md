@@ -12,7 +12,8 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 ## Internet of Things dataset
 ### Contents
 - [TCP FIN flood and zbassocflood dataset](#tcp-fin-flood-and-zbassocflood-dataset)
-- [Ping flood Attack dataset](#ping-flood-attack-dataset)
+- [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](#ping-flood-attack-pattern-recognition-on-Internet-of-things-network-dataset)
+- [UDP Flood Attack Pattern on Internet of Things Network Dataset](#udp-flood-attack-pattern-on-internet-of-things-network-dataset)
 - [Constrained Application Protocol Internet of Things Protocol Dataset](#constrained-application-protocol-internet-of-things-protocol-dataset)
 - [IoT MQTT Protocol dataset](#iot-mqtt-protocol-dataset)
 
@@ -66,7 +67,7 @@ doi = {10.23919/EECSI50503.2020.9251292}
 }
 ```
 
-### Ping flood Attack dataset
+### Ping Flood Attack Pattern Recognition on Internet of Things Network dataset
 [Download](https://drive.google.com/drive/folders/1XGwlOCxnd3ozAhVAgUInfLR5l7W_uM9y?usp=sharing)
 
 #### Publications:
@@ -75,8 +76,9 @@ doi = {10.23919/EECSI50503.2020.9251292}
 Abstract — This work investigates ping flood attack pattern recognition on Internet of Things (IoT) network. Experiments are conducted on WiFi communication with three different scenarios: normal traffic, attack traffic, and normal-attack combination traffic to create normal dataset, attack dataset, and normal attack (combined) dataset. The datasets are grouped into two clusters i.e.: (i) normal cluster and (ii) attack cluster. Clustering results using implemented K-Means algorithm show the average number of packets on the cluster of attack in total is 95,931 packets, and the average packets on normal cluster in total is 4,068 packets. 
 Accuracy level of the clustering results then is calculated using confusion matrix equation. Based on the confusion matrix calculation, accuracy of clustering using implemented K-Means algorithm was 99.94%. The true negative rate reaches up to 98.62%, true positive rate is 100%, the false negative rate is 0%, and the false positive rate reaches 1.38%.
 
-### UDP flood Attack dataset
-[Download](https://drive.google.com/drive/folders/1a5tLZ01pR71X9-lf0H3B2Y-OIvVtei5Z?usp=sharing)
+### UDP Flood Attack Pattern on Internet of Things Network Dataset
+
+Our dataset is available on Zenodo, please visit [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc) to download.
 
 #### Publications:
 **Investigating UDP Flood Attack Pattern on Internet of Things Network** _`status: on review`_
