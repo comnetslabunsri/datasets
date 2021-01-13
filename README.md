@@ -15,7 +15,7 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 - [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](#ping-flood-attack-pattern-recognition-on-Internet-of-things-network-dataset)
 - [UDP Flood Attack Pattern on Internet of Things Network Dataset](#udp-flood-attack-pattern-on-internet-of-things-network-dataset)
 - [Constrained Application Protocol Internet of Things Protocol Dataset](#constrained-application-protocol-internet-of-things-protocol-dataset)
-- [IoT MQTT Protocol dataset](#iot-mqtt-protocol-dataset)
+- [Message Queue Telemetry Transport Protocol on Internet of Thing Dataset](#message-queue-telemetry-transport-protocol-on-internet-of-thing-dataset)
 
 ### TCP FIN flood and zbassocflood dataset
 
@@ -68,7 +68,8 @@ doi = {10.23919/EECSI50503.2020.9251292}
 ```
 
 ### Ping Flood Attack Pattern Recognition on Internet of Things Network dataset
-[Download](https://drive.google.com/drive/folders/1XGwlOCxnd3ozAhVAgUInfLR5l7W_uM9y?usp=sharing)
+
+Our dataset is available on Zenodo, please visit [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc) to download.
 
 #### Publications:
 **Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network** _`status: on repository`_
@@ -96,8 +97,9 @@ Our dataset is available on Zenodo, please visit [Constrained Application Protoc
 This study discusses the implementation of the Constrained Application Protocol (CoAP) using Constrained RESTful Environments (CoRE) on RFC 7252 which is used as a research parameter. 
 The implementation of this Limited Application Protocol uses Internet of Things (IoT) technology. The testing technique is carried out offline and the device used is based on the constrained device. Network performance testing parameters in this study are UDP throughput, UDP delay, UDP packet loss and UDP packet delivery ratio. Testing network performance with LED and Buzzer output produces the largest average UDP throughput, namely 4.5737 Kbps while the smallest average throughput is 1.2293 Kbps, the largest average UDP delay result is 2 seconds and the smallest average is 0.6 seconds, then the average UDP packet loss yield is 0% while the average successful packet delivery ratio is 100%. From the results of this test, the Constrained Application Protocol (CoAP) has smaller network performance results than the HyperText Transfer Protocol (HTTP) to be implemented in Internet of Things (IoT) technology.
 
-### IoT MQTT Protocol dataset
-[Download](https://drive.google.com/drive/folders/10QP4RnbIpNMC9p0NLPDFFwlPvEBhvER6?usp=sharing)
+### Message Queue Telemetry Transport Protocol on Internet of Thing Dataset
+
+if use this data in a publication please cite the following this paper [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
 
 #### Publications
 **Performance Analysis of Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing (IoT)** _`status : on review`_
