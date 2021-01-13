@@ -1,13 +1,13 @@
 # COMNETS Lab dataset for research by Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya
 ![comnets](logo-dataset.png)
 
-COMNETS lab dataset is a collection of datasets from the Department of Computer ngineering. Faculty of Computer Science. Universitas Sriwijaya.
+COMNETS lab dataset is a collection of datasets from the Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya.
 
 For further more information, kindly to contacted at comnets@unsri.ac.id
 
 ## Contents
 - [Internet of Things dataset](#internet-of-things-dataset)
-- [License](#lisence)
+- [License](#license)
 
 ## Internet of Things dataset
 ### Contents
@@ -19,7 +19,9 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 
 ### TCP FIN flood and zbassocflood Dataset
 
-Our dataset is available on Zenodo, please visit [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc) to download.
+This dataset is available at Zenodo, kindly to download it throught [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc)
+
+[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4431541.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4431541.svg)
 
 #### Publications: 
 **The Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data.**
@@ -69,7 +71,9 @@ doi = {10.23919/EECSI50503.2020.9251292}
 
 ### Ping Flood Attack Pattern Recognition on Internet of Things Network Dataset
 
-Our dataset is available on Zenodo, please visit [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc) to download.
+This dataset is available at Zenodo, kindly to download it throught [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc)
+
+[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436208.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436208.svg)
 
 #### Publications:
 **Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network** _`status: on repository`_
@@ -79,7 +83,9 @@ Accuracy level of the clustering results then is calculated using confusion matr
 
 ### UDP Flood Attack Pattern on Internet of Things Network Dataset
 
-Our dataset is available on Zenodo, please visit [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc) to download.
+This dataset is available at Zenodo, kindly to download it throught [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc)
+
+[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436127.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436127.svg)
 
 #### Publications:
 **Investigating UDP Flood Attack Pattern on Internet of Things Network** _`status: on review`_
@@ -89,7 +95,9 @@ A feature extraction process on generated CSV file was performed and then the fe
 
 ### Constrained Application Protocol Internet of Things Protocol Dataset
 
-Our dataset is available on Zenodo, please visit [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc) to download.
+This dataset is available at Zenodo, kindly to download it throught [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc)
+
+[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436043.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436043.svg)
 
 #### Publications
 **Implementation of Constrained Application Protocol on IoT using Constrained RESTful Environments Constrained Device** _`status : on repository`_
@@ -99,7 +107,9 @@ The implementation of this Limited Application Protocol uses Internet of Things 
 
 ### Message Queue Telemetry Transport Protocol on Internet of Thing Dataset
 
-if use this data in a publication please cite the following this paper [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
+This dataset is available at Zenodo, kindly to download it throught [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
+
+[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436172.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436172.svg)
 
 #### Publications
 **Performance Analysis of Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing (IoT)** _`status : on review`_
@@ -107,7 +117,7 @@ if use this data in a publication please cite the following this paper [Message 
 Internet of Things (IoT) is a system where devices are connected and allows information exchange among them. It also allows devices/objects to interact directly with other objects or commonly refers to Machine-to-Machine (M2M) communication. Message Queue Telemetry Transport (MQTT) is machine-to-machine connectivity protocol, which is designed as messages delivery service that gives different level of Quality of Service (QoS) i.e.: level 0, 1 and 2 for variety of use cases, provides architecture of publish/subscribe and supports multicasting message. The importance feature of MQTT is low overhead for efficient communication between devices. 
 This work implements MQTT using Mosquito Broker, which has a function to regulate the delivery of messages between Publisher and Subscriber using poll system call to handle multiple network socket in one thread. With a scenario of increasing number of nodes at each experiment, MQTT Protocol has an average overall delay of 0.0029 seconds, an average throughput of 218 Kbps, average of packet loss of 0.2% and average of packet delivery ratio of 99.7%. Of experiment results obtained, the MQTT Protocol has potential to be able to meet the needs of the use of a limited bandwidth network, which can be adjusted with the level of service provided by the MQTT and low packet loss rate.
 
-## Lisence
+## License
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 You may redistribute, republish, and mirror all of the COMNETS Lab datasets in any form. However, any use or redistribution of the data must include a citation to our publications or the COMNETS Lab dataset.
