@@ -17,7 +17,7 @@ For further more information, kindly to contacted at comnets@unsri.ac.id
 - [Constrained Application Protocol Internet of Things Protocol Dataset](#constrained-application-protocol-internet-of-things-protocol-dataset)
 - [Message Queue Telemetry Transport Protocol on Internet of Thing Dataset](#message-queue-telemetry-transport-protocol-on-internet-of-thing-dataset)
 
-### TCP FIN flood and zbassocflood dataset
+### TCP FIN flood and zbassocflood Dataset
 
 Our dataset is available on Zenodo, please visit [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc) to download.
 
@@ -67,7 +67,7 @@ doi = {10.23919/EECSI50503.2020.9251292}
 }
 ```
 
-### Ping Flood Attack Pattern Recognition on Internet of Things Network dataset
+### Ping Flood Attack Pattern Recognition on Internet of Things Network Dataset
 
 Our dataset is available on Zenodo, please visit [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc) to download.
 
@@ -87,7 +87,7 @@ Our dataset is available on Zenodo, please visit [UDP Flood Attack Pattern on In
 Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. 
 A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
 
-### Constrained Application Protocol Internet of Things Protocol dataset
+### Constrained Application Protocol Internet of Things Protocol Dataset
 
 Our dataset is available on Zenodo, please visit [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc) to download.
 
