@@ -12,7 +12,7 @@ For further more information, kindly to contacted at **comnets@unsri.ac.id**
 ## Internet of Things dataset
 ### Contents
 - [TCP FIN flood and zbassocflood Dataset](#tcp-fin-flood-and-zbassocflood-dataset)
-- [Ping Flood Attack Pattern Recognition on Internet of Things Network Dataset](#ping-flood-attack-pattern-recognition-on-Internet-of-things-network-dataset)
+- [Ping Flood Attack Pattern Recognition on Internet of Things Network Dataset](#ping-flood-attack-pattern-recognition-on-internet-of-things-network-dataset)
 - [UDP Flood Attack Pattern on Internet of Things Network Dataset](#udp-flood-attack-pattern-on-internet-of-things-network-dataset)
 - [Constrained Application Protocol Internet of Things Protocol Dataset](#constrained-application-protocol-internet-of-things-protocol-dataset)
 - [Message Queue Telemetry Transport Protocol on Internet of Thing Dataset](#message-queue-telemetry-transport-protocol-on-internet-of-thing-dataset)
@@ -26,13 +26,13 @@ This dataset is available at Zenodo, kindly to download it throught [TCP FIN Flo
 #### Publications: 
 **The Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data.**
 
-Abstract— This research focuses on the requirements for and the creation of an intrusion detection system (IDS) dataset for an Internet of Things (IoT) network domain. 
+_Abstract_— This research focuses on the requirements for and the creation of an intrusion detection system (IDS) dataset for an Internet of Things (IoT) network domain. 
 A minimal requirements Internet of Things (IoT) network system was built to produce a dataset according to IDS testing needs for IoT security. Testing was performed with 12 scenarios and resulted in 24 datasets which consisted of normal, attack and combined normal-attack traffic data. 
 Testing focused on three denial of service (DoS) and distributed denial of service (DDoS) attacks—“finish” (FIN) flood, User Datagram Protocol (UDP) flood, and Zbassocflood/association flood—using two communication protocols, IEEE 802.11 (WiFi) and IEEE 802.15.4 (ZigBee). A preprocessing test result obtained 95 attributes for the WiFi datasets and 64 attributes for the Xbee datasets
 
 **TCP FIN Flood Attack Pattern Recognition on Internet of Things with Rule Based Signature Analysis**
 
-Abstract-Focus of this research is TCP FIN flood attack pattern recognition in Internet of Things (IoT) network using rule based signature analysis method. Dataset is taken based on three scenario normal, attack and normal-attack. The process of identification and recognition of TCP FIN flood attack pattern is done based on observation and analysis of packet attribute from raw data (pcap) using a feature extraction and feature selection method. 
+_Abstract_-Focus of this research is TCP FIN flood attack pattern recognition in Internet of Things (IoT) network using rule based signature analysis method. Dataset is taken based on three scenario normal, attack and normal-attack. The process of identification and recognition of TCP FIN flood attack pattern is done based on observation and analysis of packet attribute from raw data (pcap) using a feature extraction and feature selection method. 
 Further testing was conducted using snort as an IDS. The results of the confusion matrix detection rate evaluation against the snort as IDS show the average percentage of the precision level.
 
 #### Citing
@@ -78,7 +78,7 @@ This dataset is available at Zenodo, kindly to download it throught [Ping Flood 
 #### Publications:
 **Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network** _`status: on repository`_
 
-Abstract — This work investigates ping flood attack pattern recognition on Internet of Things (IoT) network. Experiments are conducted on WiFi communication with three different scenarios: normal traffic, attack traffic, and normal-attack combination traffic to create normal dataset, attack dataset, and normal attack (combined) dataset. The datasets are grouped into two clusters i.e.: (i) normal cluster and (ii) attack cluster. Clustering results using implemented K-Means algorithm show the average number of packets on the cluster of attack in total is 95,931 packets, and the average packets on normal cluster in total is 4,068 packets. 
+_Abstract_ — This work investigates ping flood attack pattern recognition on Internet of Things (IoT) network. Experiments are conducted on WiFi communication with three different scenarios: normal traffic, attack traffic, and normal-attack combination traffic to create normal dataset, attack dataset, and normal attack (combined) dataset. The datasets are grouped into two clusters i.e.: (i) normal cluster and (ii) attack cluster. Clustering results using implemented K-Means algorithm show the average number of packets on the cluster of attack in total is 95,931 packets, and the average packets on normal cluster in total is 4,068 packets. 
 Accuracy level of the clustering results then is calculated using confusion matrix equation. Based on the confusion matrix calculation, accuracy of clustering using implemented K-Means algorithm was 99.94%. The true negative rate reaches up to 98.62%, true positive rate is 100%, the false negative rate is 0%, and the false positive rate reaches 1.38%.
 
 ### UDP Flood Attack Pattern on Internet of Things Network Dataset
@@ -90,7 +90,7 @@ This dataset is available at Zenodo, kindly to download it throught [UDP Flood A
 #### Publications:
 **Investigating UDP Flood Attack Pattern on Internet of Things Network** _`status: on review`_
 
-Abstract: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. 
+_Abstract_: UDP does not have mechanism for retransmission when a transmitting error happens, it makes this protocol to be used as a DDoS attack tool against Internet of Things (IoTs) networks. This research work attempts to analyze the UDP Flood attacks packets dataset captured from an Io|T testbed network by Wireshark. 
 A feature extraction process on generated CSV file was performed and then the feature extraction result are examined to find patterns of UDP flood attack packet. Lastly, the patterns are visualized to provide easy pattern recognition.
 
 ### Constrained Application Protocol Internet of Things Protocol Dataset
