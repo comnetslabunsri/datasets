@@ -21,7 +21,6 @@ For further more information, kindly to contacted at **comnets@unsri.ac.id**
 
 This dataset is available at Zenodo, kindly to download it throught [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc)
 
-[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4431541.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4431541.svg)
 
 #### Publications: 
 **The Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data.**
@@ -73,8 +72,6 @@ doi = {10.23919/EECSI50503.2020.9251292}
 
 This dataset is available at Zenodo, kindly to download it throught [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc)
 
-[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436208.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436208.svg)
-
 #### Publications:
 **Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network** _`status: on repository`_
 
@@ -84,8 +81,6 @@ Accuracy level of the clustering results then is calculated using confusion matr
 ### UDP Flood Attack Pattern on Internet of Things Network Dataset
 
 This dataset is available at Zenodo, kindly to download it throught [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc)
-
-[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436127.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436127.svg)
 
 #### Publications:
 **Investigating UDP Flood Attack Pattern on Internet of Things Network** _`status: on review`_
@@ -97,8 +92,6 @@ A feature extraction process on generated CSV file was performed and then the fe
 
 This dataset is available at Zenodo, kindly to download it throught [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc)
 
-[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436043.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436043.svg)
-
 #### Publications
 **Implementation of Constrained Application Protocol on IoT using Constrained RESTful Environments Constrained Device** _`status : on repository`_
 
@@ -108,8 +101,6 @@ The implementation of this Limited Application Protocol uses Internet of Things 
 ### Message Queue Telemetry Transport Protocol on Internet of Thing Dataset
 
 This dataset is available at Zenodo, kindly to download it throught [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
-
-[![zenodo-doi](https://zenodo.org/badge/DOI/10.5281/zenodo.4436172.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.4436172.svg)
 
 #### Publications
 **Performance Analysis of Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing (IoT)** _`status : on review`_
