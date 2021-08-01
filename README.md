@@ -3,7 +3,7 @@
 
 COMNETS lab dataset is a collection of datasets from the Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya.
 
-For further more information, kindly to contacted at **comnets@unsri.ac.id**
+For further more information, kindly to contacted at **comnets[at]unsri.ac.id** or our page [https://comnetslabunsri.github.io/datasets/](https://comnetslabunsri.github.io/datasets/)
 
 ## Contents
 - [Internet of Things dataset](#internet-of-things-dataset)
