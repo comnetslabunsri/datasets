@@ -1,5 +1,5 @@
 # COMNETS Lab dataset for research by Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya
-![comnets](logo-dataset.png)
+![comnets-dataset-logo](logo-dataset.png)
 
 COMNETS lab dataset is a collection of datasets from the Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya.
 
