@@ -1,7 +1,8 @@
 # COMNETS Lab dataset for research by Department of Computer Engineering. Faculty of Computer Science. Universitas Sriwijaya
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 <a href="https://github.com/comnetslabunsri/datasets" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<img alt="Stars" src="https://img.shields.io/github/stars/comnetslabunsri/datasets?style=flat-square&labelColor=343b41"/><img alt="Forks" src="https://img.shields.io/github/forks/comnetslabunsri/datasets?style=flat-square&labelColor=343b41"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/comnetslabunsri/datasets?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/comnetslabunsri/datasets?style=flat-square&labelColor=343b41"/>
 [![GitHub twseptian](https://img.shields.io/github/followers/comnetslabunsri?label=follow&style=social)](https://github.com/comnetslabunsri)
 [![GitHub stars](https://img.shields.io/github/stars/comnetslabunsri?logo=GitHub&style=social)](https://github.com/comnetslabunsri)
 [![Gmail Badge](https://img.shields.io/badge/-comnets@unsri.ac.id-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:comnets@unsri.ac.id)](mailto:comnets@unsri.ac.id)
