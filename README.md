@@ -12,7 +12,9 @@ For further more information, kindly to contacted at **comnets@unsri.ac.id** or 
 
 ## Contents
 - [Internet of Things dataset](#internet-of-things-dataset)
+- [Online Gambling](#Online-Gambling)
 - [License](#license)
+
 
 ## Internet of Things dataset
 ### Contents
@@ -112,6 +114,25 @@ This dataset is available at Zenodo, kindly to download it throught [Message Que
 
 Internet of Things (IoT) is a system where devices are connected and allows information exchange among them. It also allows devices/objects to interact directly with other objects or commonly refers to Machine-to-Machine (M2M) communication. Message Queue Telemetry Transport (MQTT) is machine-to-machine connectivity protocol, which is designed as messages delivery service that gives different level of Quality of Service (QoS) i.e.: level 0, 1 and 2 for variety of use cases, provides architecture of publish/subscribe and supports multicasting message. The importance feature of MQTT is low overhead for efficient communication between devices. 
 This work implements MQTT using Mosquito Broker, which has a function to regulate the delivery of messages between Publisher and Subscriber using poll system call to handle multiple network socket in one thread. With a scenario of increasing number of nodes at each experiment, MQTT Protocol has an average overall delay of 0.0029 seconds, an average throughput of 218 Kbps, average of packet loss of 0.2% and average of packet delivery ratio of 99.7%. Of experiment results obtained, the MQTT Protocol has potential to be able to meet the needs of the use of a limited bandwidth network, which can be adjusted with the level of service provided by the MQTT and low packet loss rate.
+
+### Smart Home Attack Topology (IPv4)
+
+This dataset is available at Zenodo, kindly to download it throught [Smart Home Attack Topology (IPv4)](https://zenodo.org/records/14807844)
+
+_Abstract Dataset_ — Smart Home technology is an automation system designed to facilitate household activities through the Internet of Things (IoT). IoT technology enables everyday objects, such as sensors, cameras, and other smart devices, to connect to the Internet. As IoT technology advances, it becomes an attractive target for cyberattacks, including Distributed Denial of Service (DDoS), Denial of Service (DoS), and Man-in-the-Middle (MITM) attacks. The success of this study is demonstrated through the use of Information Security tools, such as CapLoader, Network Miner, Dynamite Lab, and the Snort IDS. Additionally, T-Shark plays a crucial role as a solution for extracting data from .pcap files into CSV format, enabling further analysis.
+
+### Smart Home Attack Topology (IPv6)
+
+This dataset is available at Zenodo, kindly to download it throught [Smart Home Attack Topology (IPv6)](https://zenodo.org/records/15233545)
+
+_Abstract Dataset_ — This dataset contains network traffic recordings from a smart home environment based on the IPv6 protocol, captured using Wireshark. The data collection was performed in three distinct scenarios: normal traffic, attack traffic, and a mixed scenario. The normal scenario involves routine smart home device activities without any disturbances, while the attack scenario simulates a DDoS attack using the THC-IPv6 tool with methods such as Router Advertisement Flooding and ICMPv6 Echo Request Flooding. The mixed scenario combines normal traffic and attack traffic, representing real-world conditions where the network experiences disturbances but still operates partially. The recordings were captured for five minutes in pcap or pcapng format to ensure consistency, and the dataset can be used for research in network security, intrusion detection systems (IDS), and machine learning model training for anomaly detection in IPv6-based smart home networks.
+
+## Online Gambling
+### Dataset Traffic Access On Website and Application in Online Gambling
+
+This dataset is available at Zenodo, kindly to download it throught [Dataset Traffic Access On Website and Application in Online Gambling](https://zenodo.org/records/15233150)
+
+_Abstract Dataset_ — Technological advancements and the widespread availability of internet access have fueled the rapid global expansion of online gambling. These platforms offer users the flexibility to play anytime and anywhere, coupled with the allure of substantial profits and immersive gameplay, which contributes to their rising popularity. However, beneath this appeal lie significant risks, including addiction, financial loss, and potential involvement in criminal activities. In Europe alone, online gambling revenue has grown by approximately 9% annually and is expected to represent 41% of the total gambling industry revenue by 2026. Moreover, online gambling is increasingly associated with cybercrimes such as theft, fraud, and defacement attacks targeting government and educational websites, often combined with black-hat SEO techniques to boost traffic to illicit gambling sites and tarnish institutional reputations. To better understand the infrastructure behind these activities, this study involved accessing several online gambling websites and applications through three one-hour gameplay sessions. The resulting dataset identifies various gambling-related IP addresses, the services they utilize, and their countries of origin, providing valuable insights into the digital and geographical landscape of online gambling operations.
 
 ## License
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
