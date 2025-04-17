@@ -26,7 +26,7 @@ For further more information, kindly to contacted at **comnets@unsri.ac.id** or 
 
 ### TCP FIN flood and zbassocflood Dataset
 
-This dataset is available at Zenodo, kindly to download it throught [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc)
+This dataset is available at Zenodo, kindly to download it through [TCP FIN Flood and Zbassocflood Dataset](https://zenodo.org/record/4431541#.X_623HUzaNc)
 
 
 #### Publications: 
@@ -77,7 +77,7 @@ doi = {10.23919/EECSI50503.2020.9251292}
 
 ### Ping Flood Attack Pattern Recognition on Internet of Things Network Dataset
 
-This dataset is available at Zenodo, kindly to download it throught [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc)
+This dataset is available at Zenodo, kindly to download it through [Ping Flood Attack Pattern Recognition on Internet of Things Network dataset](https://zenodo.org/record/4436208#.X_7PmHUzaNc)
 
 #### Publications:
 **Ping Flood Attack Pattern Recognition using K-Means Algorithm in Internet of Things (IoT) Network** _`status: on repository`_
@@ -87,7 +87,7 @@ Accuracy level of the clustering results then is calculated using confusion matr
 
 ### UDP Flood Attack Pattern on Internet of Things Network Dataset
 
-This dataset is available at Zenodo, kindly to download it throught [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc)
+This dataset is available at Zenodo, kindly to download it through [UDP Flood Attack Pattern on Internet of Things Network Dataset](https://zenodo.org/record/4436127#.X_7DJXUzaNc)
 
 #### Publications:
 **Investigating UDP Flood Attack Pattern on Internet of Things Network** _`status: on review`_
@@ -97,7 +97,7 @@ A feature extraction process on generated CSV file was performed and then the fe
 
 ### Constrained Application Protocol Internet of Things Protocol Dataset
 
-This dataset is available at Zenodo, kindly to download it throught [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc)
+This dataset is available at Zenodo, kindly to download it through [Constrained Application Protocol (CoAP) Internet of Things Protocol Dataset](https://zenodo.org/record/4436043#.X_68SHUzaNc)
 
 #### Publications
 **Implementation of Constrained Application Protocol on IoT using Constrained RESTful Environments Constrained Device** _`status : on repository`_
@@ -107,7 +107,7 @@ The implementation of this Limited Application Protocol uses Internet of Things 
 
 ### Message Queue Telemetry Transport Protocol on Internet of Thing Dataset
 
-This dataset is available at Zenodo, kindly to download it throught [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
+This dataset is available at Zenodo, kindly to download it through [Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing Dataset](https://zenodo.org/record/4436172#.X_7KtHUzaNc)
 
 #### Publications
 **Performance Analysis of Message Queue Telemetry Transport (MQTT) Protocol on Internet of Thing (IoT)** _`status : on review`_
@@ -117,20 +117,20 @@ This work implements MQTT using Mosquito Broker, which has a function to regulat
 
 ### Smart Home Attack Topology (IPv4)
 
-This dataset is available at Zenodo, kindly to download it throught [Smart Home Attack Topology (IPv4)](https://zenodo.org/records/14807844)
+This dataset is available at Zenodo, kindly to download it through [Smart Home Attack Topology (IPv4)](https://zenodo.org/records/14807844)
 
 _Abstract Dataset_ — Smart Home technology is an automation system designed to facilitate household activities through the Internet of Things (IoT). IoT technology enables everyday objects, such as sensors, cameras, and other smart devices, to connect to the Internet. As IoT technology advances, it becomes an attractive target for cyberattacks, including Distributed Denial of Service (DDoS), Denial of Service (DoS), and Man-in-the-Middle (MITM) attacks. The success of this study is demonstrated through the use of Information Security tools, such as CapLoader, Network Miner, Dynamite Lab, and the Snort IDS. Additionally, T-Shark plays a crucial role as a solution for extracting data from .pcap files into CSV format, enabling further analysis.
 
 ### Smart Home Attack Topology (IPv6)
 
-This dataset is available at Zenodo, kindly to download it throught [Smart Home Attack Topology (IPv6)](https://zenodo.org/records/15233545)
+This dataset is available at Zenodo, kindly to download it through [Smart Home Attack Topology (IPv6)](https://zenodo.org/records/15233545)
 
 _Abstract Dataset_ — This dataset contains network traffic recordings from a smart home environment based on the IPv6 protocol, captured using Wireshark. The data collection was performed in three distinct scenarios: normal traffic, attack traffic, and a mixed scenario. The normal scenario involves routine smart home device activities without any disturbances, while the attack scenario simulates a DDoS attack using the THC-IPv6 tool with methods such as Router Advertisement Flooding and ICMPv6 Echo Request Flooding. The mixed scenario combines normal traffic and attack traffic, representing real-world conditions where the network experiences disturbances but still operates partially. The recordings were captured for five minutes in pcap or pcapng format to ensure consistency, and the dataset can be used for research in network security, intrusion detection systems (IDS), and machine learning model training for anomaly detection in IPv6-based smart home networks.
 
 ## Online Gambling
 ### Dataset Traffic Access On Website and Application in Online Gambling
 
-This dataset is available at Zenodo, kindly to download it throught [Dataset Traffic Access On Website and Application in Online Gambling](https://zenodo.org/records/15233150)
+This dataset is available at Zenodo, kindly to download it through [Dataset Traffic Access On Website and Application in Online Gambling](https://zenodo.org/records/15233150)
 
 _Abstract Dataset_ — Technological advancements and the widespread availability of internet access have fueled the rapid global expansion of online gambling. These platforms offer users the flexibility to play anytime and anywhere, coupled with the allure of substantial profits and immersive gameplay, which contributes to their rising popularity. However, beneath this appeal lie significant risks, including addiction, financial loss, and potential involvement in criminal activities. In Europe alone, online gambling revenue has grown by approximately 9% annually and is expected to represent 41% of the total gambling industry revenue by 2026. Moreover, online gambling is increasingly associated with cybercrimes such as theft, fraud, and defacement attacks targeting government and educational websites, often combined with black-hat SEO techniques to boost traffic to illicit gambling sites and tarnish institutional reputations. To better understand the infrastructure behind these activities, this study involved accessing several online gambling websites and applications through three one-hour gameplay sessions. The resulting dataset identifies various gambling-related IP addresses, the services they utilize, and their countries of origin, providing valuable insights into the digital and geographical landscape of online gambling operations.
 
